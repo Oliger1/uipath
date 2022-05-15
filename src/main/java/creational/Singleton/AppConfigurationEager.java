@@ -6,6 +6,7 @@ public class AppConfigurationEager {
     private int DbPort;
     private String DbPassword;
 
+//comment
     private AppConfigurationEager() {
     }
 
